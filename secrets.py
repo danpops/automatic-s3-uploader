@@ -1,0 +1,4 @@
+# IMPORT AWS ACCESS KEY HERE
+access_key = ''
+# IMPORT AWS SECRET ACCESS HERE
+secret_access_key = '' # IMPORT AWS SECRET ACCESS HERE
